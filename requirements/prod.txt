@@ -204,9 +204,9 @@ pyDNS==2.3.6 \
     --hash=sha256:f1960d8bff0aafad9252b9e80279748fe7ebe5e719487d132ccb1281523cdb62
 https://github.com/mozilla/happyforms/archive/master.zip#egg=happyforms \
     --hash=sha256:9f82a903cebeac781183b70a1e7bae9a600b14f2e71876a5bda7944dabad5f4c
-Babel==2.3.4 \
-    --hash=sha256:3318ed2960240d61cbc6558858ee00c10eed77a6508c4d1ed8e6f7f48399c975 \
-    --hash=sha256:c535c4403802f6eb38173cd4863e419e2274921a01a8aad8a5b497c131c62875
+Babel==2.9.1 \
+    --hash=sha256:ab49e12b91d937cd11f0b67cb259a57ab4ad2b59ac7a3b41d6c06c0ac5b0def9 \
+    --hash=sha256:bc0c176f9f6a994582230df350aa6e05ba2ebe4b3ac317eab29d9be5d2768da0
 imagesize==0.7.1 \
     --hash=sha256:6ebdc9e0ad188f9d1b2cdd9bc59cbe42bf931875e829e7a595e6b3abdc05cdfb \
     --hash=sha256:0ab2c62b87987e3252f89d30b7cedbec12a01af9274af9ffa48108f2c13c6062
